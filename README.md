@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Shripal 👋</h1>
 
-<!--
-**0xshripal/0xshripal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Game Modding • Automation • Virtualization • Development</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I like understanding how software works, experimenting with games,
+  building tools and automating repetitive tasks.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About Me
+
+- 🎮 Interested in **Game Modding & Game Internals**
+- 🤖 Building **Automation Tools & Scripts**
+- 🖥️ Experienced with **Virtual Machines & Virtualized Environments**
+- 🔧 Love experimenting, debugging and understanding how systems work
+- 🌐 Building small **Web Projects & Utilities**
+- 📍 Rajasthan, India 🇮🇳
+
+---
+
+### 🧰 Tech I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,html,css,js,git,github,vscode,visualstudio,windows,linux" />
+</p>
+
+**Also interested in**
+
+`Game Modding` • `Automation` • `Virtual Machines` • `Debugging` • `Reverse Engineering Concepts` • `Web Tools`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xshripal&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshripal&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xshripal&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+### 🚀 What I'm Exploring
+
+```text
+Game Systems      █████████░
+Automation        ████████░░
+Virtualization    ████████░░
+Web Development   ███████░░░
+System Internals  ███████░░░
