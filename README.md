@@ -37,8 +37,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xshripal&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshripal&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=0xshripal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Shripal's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshripal&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Shripal's Top Languages"
+  />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=0xshripal&theme=dark&hide_border=true"
+    alt="Shripal's GitHub Streak"
+  />
 </p>
 
 ---
